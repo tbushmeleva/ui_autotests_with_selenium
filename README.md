@@ -1,1 +1,2 @@
-# ui_autotests_with_selenium
+# UI Automation Tests 
+As an example, the Amazon website was taken.
